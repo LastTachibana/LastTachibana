@@ -3,10 +3,9 @@
   <a href="#-hakkımda">🇹🇷 Türkçe</a> • 
   <a href="#-about-me">🇬🇧 English</a>
 </p>
-
+## 🇹🇷 Türkçe
 ---
 
-## 🇹🇷 Türkçe
 
 ### 👤 Hakkımda
 Merhaba! Ben **LastTachibana**. Minecraft sunucu geliştirme ve yazılım projeleri üzerine odaklanıyorum. Kendimi sürekli geliştirmeyi ve topluluklar için eğlenceli dijital dünyalar üretmeyi seviyorum.
